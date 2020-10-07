@@ -9,3 +9,5 @@ After the data has been collected, the raw data was placed into a Jupyter file a
 Once the data was cleaned and set into proper formats, I made visuals out of it using Tableau.
 
 An article to see the data and inferences about the results can be found here https://www.mattsmit.com/post/fantasy-football-draft-strategy-optimal-team-layout
+
+Tableau profile can be seen here https://public.tableau.com/profile/matt.smit3669#!/?newProfile=&activeTab=0
